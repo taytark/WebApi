@@ -3,3 +3,11 @@
 ################################################################################
 
 /AulaWebApi.Application/bin/Debug/net6.0
+/AulaWebApi.Application/obj
+/AulaWebApi.Domain/bin/Debug/net6.0
+/AulaWebApi.Domain/obj
+/AulaWebApi.Infra/bin/Debug/net6.0
+/AulaWebApi.Infra/obj
+/AulaWebApiMentoria/bin/Debug/net6.0
+/AulaWebApiMentoria/obj
+/.vs
