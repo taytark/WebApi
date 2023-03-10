@@ -1,0 +1,18 @@
+1) Rode esse primeiro comando para criar o banco de dados
+
+CREATE DATABASE testepratico 
+
+
+_________________________________________________________
+
+
+2) Rode posteriormente esse comando para criar as tabelas e colunas 
+
+
+CREATE TABLE Produtos
+(
+    id int IDENTITY(1,1) PRIMARY KEY,
+    nome varchar(255) NOT NULL,
+    marca varchar(255) NULL,
+	descricao varchar(255) NULL
+);
