@@ -1,5 +1,3 @@
-# WebApi
-
 ## Introdução
 
 Olá, bem vindos à documentação da CADASTROS-API. Trata-se de uma aplicação que é destinada para cadastrar produtos num geral e consultá-los posteriormente. O principal objetivo da API foi mantê-la simples, mas evidenciar boas práticas aplicadas. Toda aplicação está separada por camadas seguindo o padrão MVC (Model-View-Controller) e foram seguidos os princípios de S.O.L.I.D.
