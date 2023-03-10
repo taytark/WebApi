@@ -48,16 +48,7 @@ Para realizar o CADASTRO do produto é necessário realizar o seguinte procedime
 | `.NET`          | Framework                                                                                                                                |
 | `Sql Server`    | Banco de dados relacional                                                                                                                |
 | `Postman`       | Interface gráfica para realizar os testes                                                                                                |
-| `swagger`       | Gera a documentação                                                                                                                      |
-| `      `        | hospeda a documentação                                                                                                                   |
-<br>
-
-<br>
-Link para a documentação:
-
-📝 [Swagger]()
-
-📝 [Render]()
+| `swagger`       | Gera a documentação                                                                                                                      |                                                                                                                   |
 <br>
 
 ## Contato
