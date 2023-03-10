@@ -15,21 +15,25 @@ Olá, bem vindos à documentação da CADASTROS-API. Trata-se de uma aplicação
 
 Para realizar a ATUALIZAÇÃO do produto é necessário realizar o seguinte procedimento:
 
-> {<br>
+> {
+> <br>
 > 1°: Expandir o endpoint (Na setinha para baixo);
 > 2°: Clicar em "Tyr it Out";
 > 3°: Preencher o campos, exceto; Id;
 > 4°: Clicar em "Execute";
-> }<br>
+> }
+> <br>
 
 Para realizar o CADASTRO do produto é necessário realizar o seguinte procedimento:
 
-> {<br>
+> {
+> <br>
 > 1°: Expandir o endpoint (Na setinha para baixo);
 > 2°: Clicar em "Tyr it Out";
 > 3°: Preencher TODOS os campos;
 > 4°: Clicar em "Execute";
-> }<br>
+> }
+> <br>
 
 
 
@@ -42,11 +46,10 @@ Para realizar o CADASTRO do produto é necessário realizar o seguinte procedime
 | `C#`            | Linguagem de programação                                                                                                                 |
 | `ASP.NET Core`  | Ambiente de execução                                                                                                                     |
 | `.NET`          | Framework                                                                                                                                |
-| `Sql Server`    | Banco de dados relacional                                                                                      |
+| `Sql Server`    | Banco de dados relacional                                                                                                                |
 | `Postman`       | Interface gráfica para realizar os testes                                                                                                |
 | `swagger`       | Gera a documentação                                                                                                                      |
 | `      `        | hospeda a documentação                                                                                                                   |
-
 <br>
 
 <br>
